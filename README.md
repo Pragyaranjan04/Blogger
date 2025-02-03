@@ -40,12 +40,3 @@
 
     The server should start running on http://localhost:5000 or your specified PORT, and connect to the MongoDB database.
 
-Congrats! You have successfully set up the backend of the MERN Stack Blogify Project on your local machine. For details on the API routes you can use, refer to the API Documentation section.
-
-## Contributing
-
-For contribution guidelines, refer to [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-## License
-
-The project is licensed under the MIT license. For more details, refer to [LICENSE.md](./LICENSE.md).
